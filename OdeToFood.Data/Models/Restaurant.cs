@@ -19,3 +19,5 @@ namespace OdeToFood.Data.Models
         public CuisineType Cuisine { get; set; }
     }
 }
+
+//a test
