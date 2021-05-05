@@ -100,3 +100,7 @@ C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Memory.xml
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Numerics.Vectors.xml
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml

@@ -13,5 +13,7 @@ namespace OdeToFood.Data.Services
         void Add(Restaurant restaurant);
 
         void Edit(Restaurant restaurant);
+
+        void Delete(int id);
     }
 }

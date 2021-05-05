@@ -39,3 +39,7 @@ C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\System.Web.WebPage
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\System.Web.WebPages.Razor.xml
 C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\dev\github\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
